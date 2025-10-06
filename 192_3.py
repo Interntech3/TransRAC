@@ -217,7 +217,7 @@ def adaptive_aggregate(results):
 
 def main():
     # Configuration
-    VIDEO_PATH = "/home/sanghavi/Downloads/transRAC_bor_1.mp4"
+    VIDEO_PATH = "/home/sanghavi/Downloads/chunk_7.mp4"
     CONFIG_PATH = "/home/sanghavi/Downloads/Rep_Counting/Video-Swin-Transformer/configs/recognition/swin/swin_tiny_patch244_window877_kinetics400_1k.py"
     PRETRAINED_PATH = "/home/sanghavi/Downloads/Rep_Counting/pretrained/swin_tiny_patch244_window877_kinetics400_1k.pth"
     MODEL_CHECKPOINT = "/home/sanghavi/Downloads/Rep_Counting/pretrained/transrac_ckpt_pytorch_171.pt"
