@@ -7,3 +7,5 @@ Infer_clean.py -> only Cv2 method
 192_3.py -> logic of 192 frames with sliding window with adaptive aggregation approach (out of fixed batches, overlap with boundary correction, adaptive threshold, and sliding window , it gave best result)
 
 Camera.py -> Integrates real time camera for repetition count, captures first 192 frames only.
+
+Camera_2.py -> Integrates real time camera for repetition count, captures first 192 frames with 25 fps.
